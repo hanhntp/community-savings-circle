@@ -18,20 +18,11 @@ Community Savings Circle brings the time-tested concept of ROSCAs (common in dev
 
 ## 🚀 Unique Aspects
 
-Unlike other DApps in this repository:
 1. **Financial Inclusion Focus**: Specifically designed for underserved communities
 2. **Traditional Finance Bridge**: Digitizes traditional ROSCA systems
 3. **Community-Based**: Emphasizes group financial activities
 4. **Stablecoin Optimized**: Perfect for Celo's mission
 5. **Cycle-Based Economics**: Rotating payout system
-
-## 📊 Smart Contract
-
-- **Network**: Celo Sepolia Testnet
-- **Contract Address**: `0xE1FB3FFf80705bB7976b411bdBE763B215C2678d`
-- **Explorer**: [View on CeloScan](https://sepolia.celoscan.io/address/0xE1FB3FFf80705bB7976b411bdBE763B215C2678d)
-- **Solidity Version**: 0.8.20
-- **Security**: ReentrancyGuard, Ownable
 
 ## 🏗️ Architecture
 
@@ -223,5 +214,3 @@ MIT License
 Built for the Celo ecosystem to promote financial inclusion and community empowerment.
 
 ---
-
-**Deployed on Celo Sepolia**: `0xE1FB3FFf80705bB7976b411bdBE763B215C2678d`
