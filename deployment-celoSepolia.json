@@ -1,0 +1,8 @@
+{
+  "network": "celoSepolia",
+  "contractAddress": "0xE1FB3FFf80705bB7976b411bdBE763B215C2678d",
+  "deployer": "0x2F83a41E77c57B065Be5022c11595f4bf2eE9eF1",
+  "deployedAt": "2025-10-30T15:38:13.821Z",
+  "blockExplorer": "https://sepolia.celoscan.io/address/0xE1FB3FFf80705bB7976b411bdBE763B215C2678d",
+  "transactionHash": "0x595a256b2a575fe160c057300dddbe75485090e7485664e1e96636fe6136b3b2"
+}

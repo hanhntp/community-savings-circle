@@ -1,0 +1,21 @@
+{
+  "name": "community-savings-circle-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Community Savings Circle (ROSCA) DApp on Celo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 3004",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ethers": "^6.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.4.0"
+  }
+}
