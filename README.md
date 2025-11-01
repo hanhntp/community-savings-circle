@@ -180,15 +180,6 @@ const tx = await savingsCircle.distributePayout(1);  // circleId
 5. **Agricultural Cooperatives**: Farmer savings groups
 6. **Women's Groups**: Financial empowerment circles
 
-## 🔄 Comparison with Other DApps
-
-| Feature | Savings Circle | Skill Marketplace | Micro-Insurance | Real Estate |
-|---------|---------------|-------------------|-----------------|-------------|
-| Focus | Community Savings | Service Escrow | Insurance Pools | Property NFTs |
-| Token Type | Native CELO | None | None | ERC-721 |
-| Target | Financial Inclusion | Freelancers | Social Impact | Investors |
-| Unique Aspect | Rotating Payouts | Dispute System | Health Coverage | Fractional Ownership |
-
 ## 📚 Resources
 
 - [Celo Documentation](https://docs.celo.org/)
